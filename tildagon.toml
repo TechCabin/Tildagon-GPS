@@ -28,7 +28,7 @@ author = "TechCabin"
 license = "LGPL-3.0-only"
 
 # URL to the repository of your app.
-url = "https://github.com/TechCabin/EMFBadge-Hexpansions-GPS"
+url = "https://github.com/TechCabin/Tildagon-GPS"
 
 # Description of your app.  Maximum 140 characters!
 description = "Official App for the GPS Hexpansion"
